@@ -3,8 +3,9 @@
 1. Form Validator | Intro ✔️
 1. Movie Seat Booking | DOM & Local Storage ✔️
 1. Custom Video Player | HTML5 Video API ✔️
-	* Add volume control via API next to stop button
-1. Exchange Rate Calculator | Fetch & JSON Intro
+	* TODO: Add volume control via API next to stop button
+1. Exchange Rate Calculator | Fetch & JSON Intro ✔️
+	* TODO: Dynamically add currency symbol before numeric value in each field
 1. DOM Array Methods | forEach, map, filter, sort, reduce
 1. Menu Slider & Modal | DOM & CSS
 1. Hangman Game | DOM, SVG, Events
