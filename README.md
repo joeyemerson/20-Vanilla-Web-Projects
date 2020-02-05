@@ -2,7 +2,8 @@
 ## Project Overview
 1. Form Validator | Intro ✔️
 1. Movie Seat Booking | DOM & Local Storage ✔️
-1. Custom Video Player | HTML5 Video API
+1. Custom Video Player | HTML5 Video API ✔️
+	* Add volume control via API next to stop button
 1. Exchange Rate Calculator | Fetch & JSON Intro
 1. DOM Array Methods | forEach, map, filter, sort, reduce
 1. Menu Slider & Modal | DOM & CSS

@@ -1,0 +1,8 @@
+# folders
+img/
+videos/
+
+# filetypes
+.vscode
+*.png
+*.mp4
