@@ -1,7 +1,7 @@
 # 20 Vanilla Web Projects
 ## Project Overview
 1. Form Validator | Intro ✔️
-1. Movie Seat Booking | DOM & Local Storage
+1. Movie Seat Booking | DOM & Local Storage ✔️
 1. Custom Video Player | HTML5 Video API
 1. Exchange Rate Calculator | Fetch & JSON Intro
 1. DOM Array Methods | forEach, map, filter, sort, reduce
