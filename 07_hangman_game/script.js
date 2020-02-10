@@ -7,8 +7,8 @@ const finalMessage = document.getElementById('final-message');
 
 const figureParts = document.querySelectorAll('.figure-part');
 
-// Add fetch request to get list of random words
-const words = ['application', 'programming', 'interface', 'wizard'];
+// Get word list from .txt file in project folder loaded into iframe
+const words = document.getElementById('words').contentDocument.body.innerText.split('\n');
 
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 
@@ -58,7 +58,7 @@ function updateWrongLettersEl() {
 
   // Check if lost
   if (wrongLetters.length === figureParts.length) {
-    finalMessage.innerText = 'Unfortunately you lost. 😐';
+    finalMessage.innerText = `Unfortunately you lost. 😐\nThe correct word was ${selectedWord}.`;
     popup.style.display = 'flex';
   }
 }

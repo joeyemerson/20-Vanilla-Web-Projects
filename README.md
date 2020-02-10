@@ -9,7 +9,7 @@
 1. Menu Slider & Modal | DOM & CSS ✔️
 1. Hangman Game | DOM, SVG, Events ✔️
 	* TODO: Find random words API and use fetch to create wordlist
-1. Meal Finder | Fetch & MealDB API
+1. Meal Finder | Fetch & MealDB API ✔️
 1. Expense Tracker | Array Methods & Local Storage
 1. Music Player | HTML5 Audio API
 1. Infinite Scroll Posts | Fetch, Async/Await, CSS Loader
