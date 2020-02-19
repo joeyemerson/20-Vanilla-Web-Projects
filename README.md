@@ -15,9 +15,9 @@
 1. Infinite Scroll Posts | Fetch, Async/Await, CSS Loader ✔️
 1. Typing Game | DOM, Intervals, Events ✔️
 1. Speech Text Reader | Speech Synthesis ✔️
-1. Memory Cards | CSS Effects, Local Storage
-1. Lyrics Search App | Fetch, Pagination, Lyrics.ovh API
-1. Relaxer App | CSS Animation, setTimeout
+1. Memory Cards | CSS Effects, Local Storage ✔️
+1. Lyrics Search App | Fetch, Pagination, Lyrics.ovh API ✔️
+1. Relaxer App | CSS Animation, setTimeout ✔️
 1. Breakout Game | HTML5 Canvas API
 1. New Year Countdown | DOM, Date & Time
 1. Sortable List | Drag & Drop API
