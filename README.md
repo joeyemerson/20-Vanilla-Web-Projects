@@ -19,6 +19,6 @@
 1. Lyrics Search App | Fetch, Pagination, Lyrics.ovh API ✔️
 1. Relaxer App | CSS Animation, setTimeout ✔️
 1. Breakout Game | HTML5 Canvas API ✔️
-1. New Year Countdown | DOM, Date & Time
-1. Sortable List | Drag & Drop API
-1. Speak Number Guessing Game | Speech Recognition
+1. New Year Countdown | DOM, Date & Time ✔️
+1. Sortable List | Drag & Drop API ✔️
+1. Speak Number Guessing Game | Speech Recognition ✔️
